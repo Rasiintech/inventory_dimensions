@@ -1,0 +1,12 @@
+{
+    "Stock Entry Detail": [
+        {
+        "fieldname": "custom_shelf_qty",
+        "fieldtype": "Float",
+        "insert_after": "shelf",
+        "read_only":1,
+        "label": "Shelf Total Qty",
+        "module": "Inventory Dimensions"
+        }
+    ]
+}
